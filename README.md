@@ -3,11 +3,11 @@ Its an End-To-End Data Engineering Project on Real-Time Stock Market Data using 
 # Technology Used
 *Programming Language - Python
 *Amazon Web Service (AWS)
-1.S3 (Simple Storage Service)
-2.Athena
-3.Glue Crawler
-4.Glue Catalog
-5.EC2
+1. S3 (Simple Storage Service)
+2. Athena
+3. Glue Crawler
+4. Glue Catalog
+5. EC2
 *Apache Kafka
 # Dataset Used
 You can use any dataset, it should be on basis of operation side of Data Engineering (building data pipeline).
